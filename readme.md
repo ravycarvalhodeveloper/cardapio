@@ -29,6 +29,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
+- [Acesse o projeto finalizado, online](https://ravycarvalhodeveloper.github.io/cardapio/)
+
+## 🔖 Layout
+
+Layout desenvolvido por Sujeito Programador.
+
 
 Cardápio Online.
 
